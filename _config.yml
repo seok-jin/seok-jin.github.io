@@ -106,11 +106,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Lim Seok Jin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Data Architecture EN-CORE.co"
+  location         : "Seoul. Korea"
+  email            : "hopesukjin@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
